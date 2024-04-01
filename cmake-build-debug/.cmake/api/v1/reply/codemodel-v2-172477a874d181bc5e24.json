@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Jeu_de_plataforme_DM2",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Jeu_de_plataforme_DM2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Jeu_de_plataforme_DM2-Debug-54b43a5fe16dedcf496a.json",
+					"name" : "Jeu_de_plataforme_DM2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/diamx/OneDrive/Documents/GitHub/Jeu_de_plataforme_DM2/cmake-build-debug",
+		"source" : "C:/Users/diamx/OneDrive/Documents/GitHub/Jeu_de_plataforme_DM2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
